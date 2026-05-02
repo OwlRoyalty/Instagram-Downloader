@@ -18,7 +18,7 @@ body:
     id: verion
     attributes:
       label: Extension version
-      description: Please share what version of the extension are you using.
+      description: Please share the version of the extension you are using.
       placeholder: v5.1.12.
     validations:
       required: true
